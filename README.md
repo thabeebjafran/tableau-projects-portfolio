@@ -8,7 +8,7 @@ interactive version with filters and drill-downs.
 
 | # | Dashboard | Insight | Live Link |
 |---|---|---|---|
-| 1 | [Video Game Sales](./tableau-images/01-video-game-sales.png) | Analyzed 11,493 games across 31 platforms and 579 publishers; Wii Sports leads all-time sales | [View](#) |
+| 1 | [Video Game Sales](./01-video-game-sales.png) | Analyzed 11,493 games across 31 platforms and 579 publishers; Wii Sports leads all-time sales | [View](#) |
 | 2 | [Hotel Analysis](./tableau-images/02-hotel-analysis.png) | 21 hotels compared by amenities, continent, traveler type, and star rating | [View](#) |
 | 3 | [UK Traffic Collisions](./tableau-images/03-uk-traffic-collisions.png) | Collision trends by year, weather, junction type, and lighting condition | [View](#) |
 | 4 | [Superstore Sales Analysis](./tableau-images/04-superstore-sales.png) | $14.9M in sales tracked by category, top customers, and daily trend | [View](#) |
